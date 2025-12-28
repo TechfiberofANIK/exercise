@@ -1,4 +1,6 @@
 Hi there i am editing this text file through the nano command from git bash , i have never done this before , i feel so happy!!
 and now i am editing this file through noatpad command : notepad result.txt and as soon as i hit enter it opens notepad , it looks like magic.
 
-i am adding this line from github website .
+i am adding this line from github website.
+i am adding this line through vim in git bash.
+
